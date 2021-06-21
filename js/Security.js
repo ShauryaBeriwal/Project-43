@@ -19,7 +19,6 @@ class Security {
         this.button2.style('background', 'lightgrey');
 //add code for creating and positioning the third input box and button
        this.access3 = createInput("")
-       this.access3.attribute("placeholder", "Answer here")
        this.access3.position(width/2-450, height/2+150);
        this.access3.style('background', 'white');  
 
